@@ -10,6 +10,5 @@ promedio = int(promedio) #convertir valor a entero
 
 if promedio >= 6:
     print('Excelente ' + nombre + ' "aprobaste" con un promedio de: ', promedio)
-
-else:
-    print("No has aprobado, hechale ganas.")
+    
+print("Fin.")
